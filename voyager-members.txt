@@ -1,0 +1,4 @@
+Member 1: Ayman - voyager-captain
+Member 2: Farhan - voyager-firstofficer
+Member 3: Ash - voyager-engineer
+Member 4: Ezyan - voyager-medic
